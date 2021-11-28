@@ -1,0 +1,15 @@
+{
+  "name": "treast/spawn-cpt",
+  "autoload": {
+    "psr-4": {
+      "Spawn\\App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vincent Riva",
+      "email": "vincent.riva@outlook.fr"
+    }
+  ],
+  "require": {}
+}
